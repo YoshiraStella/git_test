@@ -1,1 +1,0 @@
-this is Stella's first git project!
